@@ -2,7 +2,6 @@
 using Microsoft.EntityFrameworkCore;
 using Queues.Data;
 using Queues.Models;
-using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace Queues.Controllers
